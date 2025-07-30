@@ -1,9 +1,13 @@
 # 👋 Hi, I’m Bryan Salcedo
 
 [![DevOps](https://img.shields.io/badge/Role-DevOps%20%26%20CloudOps-blue)](https://github.com) [![GitOps](https://img.shields.io/badge/GitOps-ArgoCD%20%7C%20FluxCD-green)](https://github.com) [![IaC](https://img.shields.io/badge/IaC-Terraform%20%7C%20Packer%20%7C%20Ansible-purple)](https://github.com)  
-[![Pentesting](https://img.shields.io/badge/Pentesting-Security%20%7C%20Bug%20Bounty-red)](https://github.com) [![Kubernetes](https://img.shields.io/badge/K8s-K3s%20%7C%20Service%20Mesh-grey)](https://github.com) [![Networking](https://img.shields.io/badge/Networking-DNS%20%7C%20VPN-blueviolet)](https://github.com)
+[![Pentesting](https://img.shields.io/badge/Pentesting-Security%20%7C%20Bug%20Bounty-red)](https://github.com) [![Kubernetes](https://img.shields.io/badge/Kubernetes-K3s%20%7C%20Service%20Mesh-blue?logo=kubernetes)](https://github.com)
+ [![Networking](https://img.shields.io/badge/Networking-DNS%20%7C%20VPN-blueviolet)](https://github.com)
+[![AWS](https://img.shields.io/badge/AWS-Cloud%20Architecture-orange?logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-DNS%20%7C%20WAF%20%7C%20Access-f59e0b?logo=cloudflare&logoColor=white)](https://cloudflare.com)
 
-DevOps | CloudOps | GitOps Engineer · Security Enthusiast & Pentester · Xaic #Infra‑as‑Code Advocate  
+
+DevOps | CloudOps | GitOps Engineer · Security Enthusiast & Pentester · Infrastructure-as-Code Advocate  
 I build automated, secure, and reproducible infrastructures from bare-metal to cloud, with a strong background in self-hosting, Linux, and offensive security.
 
 ---
