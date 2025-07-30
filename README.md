@@ -106,7 +106,7 @@ _All projects embrace automation, modularity, reproducibility, and security-firs
 
 - 🌐 Pentesting Blog: [brsalcedom.github.io](https://brsalcedom.github.io/)
 - 🌐 DevOps Blog: [blog.cervant.net](https://blog.cervant.net/)
-- 🐙 GitHub: [github.com/brsalcedom](https://github.com/brsalcedom)
+- 🌐 Links: [links.cervant.net](https://links.cervant.net/)
 
 ---
 
